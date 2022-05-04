@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Raleway-Bold";
+   src: url("../fonts/Raleway-Bold.otf") format("otf"), url("../fonts/Raleway-Bold.ttf") format("tft"), url("../fonts/Raleway-Bold.woff") format("woff"), url("../fonts/Raleway-Bold.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
